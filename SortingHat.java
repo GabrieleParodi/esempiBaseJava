@@ -240,7 +240,8 @@ public class SortingHat{
         System.out.println("HUFFLEPUFF: ");
         System.out.println(arrHufflepuff);
         System.out.println("RAVENCLAW: ");
-        System.out.println(arrRavenclaw);             
+        System.out.println(arrRavenclaw); 
+        System.out.println("che il vostro nuovo anno abbia inizio!");           
    }
 
    public static String ask(String prompt){ //stringa di parole
